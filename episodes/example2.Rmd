@@ -1,5 +1,5 @@
 ---
-title: "Example Episode"
+title: "Example 2 Episode"
 teaching: 0
 exercises: 0
 ---
