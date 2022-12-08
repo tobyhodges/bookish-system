@@ -25,6 +25,14 @@ Some introductoty text.
 
 Text of the problem. Please write your solution.
 
+:::::: solution
+
+### Solution
+
+Some solution text here.
+
+:::::::::::::::
+
 :::::::::::::::::::::::::
 
 Let's have a discusion now.
