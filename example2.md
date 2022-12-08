@@ -37,7 +37,7 @@ Some solution text here.
 
 Let's have a discusion now.
 
-::::::::::::::: disucssion
+::::::::::::::: discussion
 
 ### Discuss this problem
 
