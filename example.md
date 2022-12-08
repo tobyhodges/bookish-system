@@ -24,6 +24,14 @@ Some introductory text.
 
 Some exercise text here
 
+:::::: solution
+
+### Here is the solution
+
+Solution text, code and other information.
+
+:::::::::::::::
+
 ::::::::::::::::::::::::::::::
 
 After the first exercise, move on to the next.
