@@ -15,3 +15,23 @@ exercises: 2
 - TODO
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+Some introductory text.
+
+:::::::::::::::::::: challenge
+
+### My first exercise
+
+Some exercise text here
+
+::::::::::::::::::::::::::::::
+
+After the first exercise, move on to the next.
+
+::::::::::::::::::::: discussion
+
+### My first discussion exercise
+
+Please discuss this as a group.
+
+::::::::::::::::::::::::::::::::
