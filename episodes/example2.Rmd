@@ -16,3 +16,23 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+Some introductoty text. 
+
+::::::::::::::: challenge
+
+### Solve this problem
+
+Text of the problem. Please write your solution.
+
+:::::::::::::::::::::::::
+
+Let's have a discusion now.
+
+::::::::::::::: disucssion
+
+### Discuss this problem
+
+Text of the problem. Please discuss as a group.
+
+:::::::::::::::::::::::::
